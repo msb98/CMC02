@@ -15,5 +15,5 @@ In order to install these extentions please follow the next steps:
 
 Having followed the previous steps, this code will work.
 
-*Disclaimer*
+*Disclaimer*:
 These examples are intended for illustrating geotechnical and structural concepts.

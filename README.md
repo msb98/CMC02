@@ -1,6 +1,6 @@
 # CMC02
 
-Before running this example, please have the following installed on your device:
+Before running any example, please have the following installed on your device:
 - openseespy
 - ipywidgets
 - opsvis

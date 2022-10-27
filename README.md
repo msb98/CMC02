@@ -13,7 +13,7 @@ In order to install these extentions please follow the next steps:
 4. Enter 'pip install opsvis'
 
 
-Having followed the previous steps, this code will work.
+Having followed the previous steps, these codes will work.
 
 *Disclaimer*:
 These examples are intended for illustrating geotechnical and structural concepts.

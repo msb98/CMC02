@@ -1,17 +1,18 @@
 # CMC02
+How to run code:
 
-Before running any example, please have the following installed on your device:
-- openseespy
-- ipywidgets
-- opsvis
-
-In order to install these extentions please follow the next steps:
-
-1. Open Anaconda prompt
-2. Enter 'pip install openseespy'
-3. Enter 'pip install ipywidgets'
-4. Enter 'pip install opsvis'
-
+1. press green 'Code' drop down.
+2. download zip file
+3. unzip package
+4. open Anaconda prompt
+5. Install the following extentions in the prompt
+- openseespy, Enter 'pip install openseespy'
+- ipywidgets, Enter 'pip install ipywidgets'
+- opsvis, Enter 'pip install opsvis'
+6. Open Anaconda
+7. Open Jupyter Notebooks
+8. Find unziped package
+9. Open wanted example
 
 Having followed the previous steps, these codes will work.
 
